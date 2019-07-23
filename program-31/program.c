@@ -26,7 +26,7 @@ int main()
         printf("|\t%d\t|\t%s\t|\t%s\t|\t%d\t|\n",i,stud[i].n,stud[i].u,stud[i].m);
     }
     printf("Enter the details of new student\n");
-    printf("Enter the name\n");
+    printf("Enter the name\n");   //preferred to enter equal length of name 
     scanf("%s",&stud2.n);
     printf("Enter the USN\n");
     scanf("%s",&stud2.u);
