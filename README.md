@@ -1,2 +1,3 @@
 # C-basicprograms
-This repo contains basics programs in c programming language
+## This repo contains basics programs in c programming language.
+|program number|program name|
