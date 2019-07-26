@@ -2,11 +2,11 @@
 ## This repo contains basics programs in c programming language.
 | Program No.| Question |
 | ------- | ------ |
-| Program-01 | Develop a program to solve simple computational problems using arithmetic expressions and use of each operator leading to simulation of a Commercial calculator.(No built-in math function) |
-| Program-02 | Develop a program to compute the roots of a quadratic equation by accepting the coefficients. Print appropriate messages. |
-| Program-03 | Develop a program to find the reverse of a positive integer and check for palindrome or  not. Display appropriate messages.|
-| Program-04 | An electricity board charges the following rates for the use of electricity: for the first 200 units 80 paise per unit: for the next 100 units 90 paise per unit: beyond 300 units Rs 1 per unit. All users are charged a minimum of Rs. 100 as meter charge. If the total amount is more than Rs.400,  then an additional surcharge of 15% of total amount is charged. Write a program to read the name of the user, number of units consumed and print out the charges. |
-| Program-05 | Introduce 1D Array manipulation and implement Binary search. |
+| Program-01 | Program to print pattern |
+| Program-02 | Program to check whether the given number is prime or not |
+| Program-03 | Program to find largest of three number using simple if condition|
+| Program-04 | Program to find largest of three number using if-else condition |
+| Program-05 | Program to find largest of three number using nested if condition |
 | Program-06 | Implement using  functions  to  check  whether  the  given  number  is prime  and  display appropriate messages. (No built-in math function)|
 | Program-07 | Develop a program to introduce 2D Array manipulation and implement Matrix multiplication and ensure the rules of multiplication are checked.|
 | Program-08 |Develop a Program to compute Sin(x) using Taylor Series approximation. Compare your result with the built-in Library function. Print both the results with appropriate messages. |
