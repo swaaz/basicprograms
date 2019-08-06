@@ -21,6 +21,7 @@
 | Program-17 | Program to check whether the given number is prefect or not |
 | Program-18 | Program to check given number is Armstrong or not |
 | Program-19 | Program to find power of a given number |
+| Program-20 | Program to convert datatype explicitly |
 | Program-21 | Program to check whether the given number is prime or not |
 | Program-22 | Program to find GCD and LCM of given two number |
 | Program-23 | Program to find number of digits in a given number |
