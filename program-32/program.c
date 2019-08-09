@@ -25,28 +25,5 @@ int main()
     {
         printf("|\t%d\t|\t%-10s\t|\t%s\t|\t%d\t|\n",i,stud[i].n,stud[i].u,stud[i].m);
     }
-    printf("Enter the details of new student\n");
-    printf("Enter the name\n");   //preferred to enter equal length of name
-    scanf("%s",&stud2.n);
-    printf("Enter the USN\n");
-    scanf("%s",&stud2.u);
-    printf("Enter the marks\n");
-    scanf("%d",&stud2.m);
-    printf("enter position\n");
-    scanf("%d",&p);
-
-    for(i=n+1;i>=p;i--)
-    {
-        stud[i+1]=stud[i];
-    }
-    stud[p]=stud2;
-    printf("|\tSl.no\t|\tName\t\t|\tUSN\t\t  |\tMark\t|\n");
-    for(i=1;i<=n+1;i++)
-    {
-         printf("|\t%d\t|\t%-10s\t|\t%s\t|\t%d\t|\n",i,stud[i].n,stud[i].u,stud[i].m);
-
-    }
-
-
     return 0;
 }
