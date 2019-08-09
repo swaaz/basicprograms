@@ -33,4 +33,4 @@
 | Program-29 | Program to print the pattern |
 | Program-30 | Program to print the pattern |
 | Program-31 | Program to take the details of student and print the details of students using array and to add details of new students into the existing array |
-| Program-31 | Program to take the details of student and print the details |
+| Program-32 | Program to take the details of student and print the details |
