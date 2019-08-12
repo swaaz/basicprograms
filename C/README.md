@@ -34,3 +34,7 @@
 | Program-30 | Program to print the pattern |
 | Program-31 | Program to take the details of student and print the details of students using array and to add details of new students into the existing array |
 | Program-32 | Program to take the details of student and print the details |
+| Program-33 | Program on Arithematic operation using pointers  |
+| Program-34 | Program to determine whether the matrix is a triangular matrix. First, you will be given N, which is the size of the matrix. Then you will be given N rows of integers, where each row consists of N integers separated by spaces. If the input matrix is triangular, then print yes. Otherwise, print no. |
+| Program-35 | Program to take the details of student and print the details |
+
