@@ -1,5 +1,4 @@
-/*In this assignment, you will be given an NxN matrix. You have to
-determine whether the matrix is a triangular matrix.
+/* To determine whether the matrix is a triangular matrix.
 First, you will be given N, which is the size of the matrix.
 
 Then you will be given N rows of integers, where each row consists of
