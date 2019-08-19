@@ -37,4 +37,8 @@
 | Program-33 | Program on Arithematic operation using pointers  |
 | Program-34 | Program to determine whether the matrix is a triangular matrix. First, you will be given N, which is the size of the matrix. Then you will be given N rows of integers, where each row consists of N integers separated by spaces. If the input matrix is triangular, then print yes. Otherwise, print no. |
 | Program-35 | Program where you are given a sequence of non-negative integers terminated by -1. You have to output 1 if there are atleast 2 distinct elements in the sequence and 0 if the sequence consists of only 1 integer. Note that -1 is not part of the sequence. The sequence is not necessarily sorted. |
+| Program-36 | Program to output the number of distinct elements in the sorted sequence |
+| Program-37 | Program to find the fibonacci sequnce using recursion |
+| Program-38 | Program to find the factorial of a number using recursion |
+| Program-39 | Program to find the GCD of a number using recursion |
 
