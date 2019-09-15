@@ -1,4 +1,4 @@
-# Submission
+# Contribution
 - Fork this [repo](https://github.com/swaaz/basicprograms)
 - Clone it using command :
 <pre> $ git clone paste_the_copied_url.</pre>
