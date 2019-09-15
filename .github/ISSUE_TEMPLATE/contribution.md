@@ -21,7 +21,7 @@
  <pre> $ cd folder_name </pre>
  - Create a file *program.c*
  - Write the code inside program.c file
- ### NOTE: Before writng code refer *sample* file and write the code in the same format as given
+ ### NOTE: Before writng code refer [*sample*](https://github.com/swaaz/basicprograms/blob/swaaz/C/sample.c) file and write the code in the same format as given
  - Add file :
 <pre>$ git add -A</pre>
 - Commit file :
