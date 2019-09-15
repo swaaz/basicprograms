@@ -1,5 +1,5 @@
 /*
-Program to find the fibonacci sequnce
+Program to find the fibonacci sequnce using recursion
 */
 
 #include<stdio.h>
