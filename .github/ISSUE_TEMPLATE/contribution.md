@@ -2,7 +2,7 @@
 - Fork this [repo](https://github.com/swaaz/basicprograms)
 - Clone it using command :
 <pre> $ git clone paste_the_copied_url.</pre>
-- Open folder "C/python" using command :
+- Open folder "C/Python" using command :
 <pre>$ cd filder_name</pre>
   eg:cd C
 - Create new branch using command :
@@ -11,24 +11,27 @@
 - Checkout to new branch from master branch using command:
 <pre>$ git checkout new_branch_name</pre>
    eg-git checkout swaaz
- ## Check whether the program which you want is exist in the given table
-  
-- Create file using command :
-<pre>$ nano username.md</pre>
-   eg: nano swaaz.md
-- Fill all the required details 
-- Save file using :
-  ctrl+x -> y
-- Add file using command:
+ ## Check whether the program which you want is exist in the _readme_ file
+ ### If it's existing then don't waste your time by adding it again and think of adding some other program
+ ### If it's not existing then 
+ - Create a new folder
+ <pre> $ mkdir program-number </pre>
+ eg:mkdir program-35
+ - Change directory to the new created folder
+ <pre> $ cd folder_name </pre>
+ - Create a file *program.c*
+ - Write the code inside program.c file
+ ### NOTE: Before writng code refer *sample* file and write the code in the same format as given
+ - Add file using command:
 <pre>$ git add -A</pre>
 - Commit file using command:
 <pre>$ git commit -m "comment"</pre>
-   eg-git commit -m "profile added"
+   eg-git commit -m "program added"
 - Push the file using command:
 <pre>$ git push origin -u 'branch_name'</pre>
    eg-git push origin -u swaaz
-- The given link should be copied and pasted in web browser
-- Click on create pull request.
-## Still if you did not understand how to submit 
- Click [here](https://gitme.js.org/)
+- The given link should be copied and pasted in web browser or go to your repo in web browser
+- Create a pull request
+## Still if you did not understand how to create pull request :
+[click here](https://gitme.js.org/)
 
