@@ -32,6 +32,6 @@
    eg-git push origin -u swaaz
 - The given link should be copied and pasted in web browser or go to your repo in web browser
 - Create a pull request
-## Still if you did not understand how to create pull request :
+## If you are contributing for the first time,then :
 [click here](https://gitme.js.org/)
 
