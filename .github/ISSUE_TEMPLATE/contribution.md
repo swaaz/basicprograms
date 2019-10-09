@@ -2,8 +2,10 @@
 - Fork this [repo](https://github.com/swaaz/basicprograms)
 - Clone it using command :
 <pre> $ git clone paste_the_copied_url.</pre>
+- Open folder "basicprograms"  :
+<pre>$ cd basicprograms</pre>
 - Open folder "C/Python"  :
-<pre>$ cd filder_name</pre>
+<pre>$ cd folder_name</pre>
   eg:cd C
 - Create new branch :
 <pre> $ git branch new_branch_name</pre>
