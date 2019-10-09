@@ -15,7 +15,7 @@ int main()
 {
     int a,b,c;
     printf("Enter 2 Elements:\n");
-    scanf("%d%d",&a&b);
+    scanf("%d%d",&a,&b);
     c=ack(a,b);
     printf("Ackermann(%d,%d)=%d",a,b,c);
     return 0;
