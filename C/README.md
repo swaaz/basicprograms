@@ -41,4 +41,11 @@
 | Program-37 | Program to find the fibonacci sequnce using recursion |
 | Program-38 | Program to find the factorial of a number using recursion |
 | Program-39 | Program to find the GCD of a number using recursion |
+| Program-40 | Program to find the ackerman of given two numbers|
+| Program-41 | Program to find sum of two numbers without using any operator |
+| Program-42 | Program to print Floyd’s triangle Without using a temporary variable and with only one loop |
+| Program-43 | Program for printing the hollow triangle pattern |
+| Program-44 | Program for implementation of the approach |
+| Program-45 | Program to illustrate the above given pattern of numbers. |
+
 
