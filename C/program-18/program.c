@@ -13,8 +13,8 @@ int main()
     c=c+(a*a*a);  
     }  
     if(temp==c)  
-    printf("armstrong number");   
+    printf("armstrong number\n");
     else  
-    println("Not armstrong number");
+    printf("Not armstrong number\n");
     return 0;
 }
