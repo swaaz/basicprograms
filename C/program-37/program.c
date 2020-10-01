@@ -11,15 +11,13 @@ int f;
 
     if(n==0 || n==1)
     {
-
-         return ;
+        return 1;
     }
     else
     {
         f=fib(n-2)+fib(n-1);
     }
-
-
+    return f;
 }
 
 int main()

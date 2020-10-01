@@ -7,16 +7,16 @@ int m;
 }stud[10],stud2;
 int main()
 {
-    int n,i,p=0;
+    int n,i=0;
     printf("Enter the number of student\n");
     scanf("%d",&n);
     for(i=1;i<=n;i++)
     {
         printf("Enter the details of student - %d\n",i);
         printf("Enter the name of the student\n");
-       scanf("%s",&stud[i].n);
+       scanf("%s",stud[i].n);
         printf("Enter USN\n");
-        scanf("%s",&stud[i].u);
+        scanf("%s",stud[i].u);
         printf("Enter total marks\n");
         scanf("%d",&stud[i].m);
     }
