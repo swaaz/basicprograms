@@ -14,9 +14,9 @@ int main()
     {
         printf("Enter the details of student - %d\n",i);
         printf("Enter the name of the student\n");
-       scanf("%s",&stud[i].n);
+        scanf("%s",stud[i].n);
         printf("Enter USN\n");
-        scanf("%s",&stud[i].u);
+        scanf("%s",stud[i].u);
         printf("Enter total marks\n");
         scanf("%d",&stud[i].m);
     }
@@ -27,9 +27,9 @@ int main()
     }
     printf("Enter the details of new student\n");
     printf("Enter the name\n");   //preferred to enter equal length of name
-    scanf("%s",&stud2.n);
+    scanf("%s",stud2.n);
     printf("Enter the USN\n");
-    scanf("%s",&stud2.u);
+    scanf("%s",stud2.u);
     printf("Enter the marks\n");
     scanf("%d",&stud2.m);
     printf("enter position\n");

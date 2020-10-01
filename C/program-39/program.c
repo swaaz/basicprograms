@@ -7,7 +7,6 @@ Program to find the GCD of a number using recursion
 
 int gcd(int a,int b)
 {
-int f;
 
     if( b!=0)
     {
@@ -16,7 +15,7 @@ int f;
     }
     else
     {
-       return;
+       return a;
     }
 
 
