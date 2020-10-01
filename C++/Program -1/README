@@ -7,3 +7,10 @@ n=Number of elements in an array
 arr=Array of size n
 min= Holds the minimum element
 max=Holds the maximum element
+
+Program 2
+
+Write a program to find the entered year is leap year or not.
+
+Variable description--
+year=Holds the year
