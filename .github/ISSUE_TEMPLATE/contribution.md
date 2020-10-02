@@ -6,19 +6,19 @@
 <pre>$ cd basicprograms</pre>
 - Open folder "C/Python"  :
 <pre>$ cd folder_name</pre>
-  eg:cd C
+  Example:cd C
 - Create new branch :
 <pre> $ git branch new_branch_name</pre>
-   eg:git branch swaaz
+ Example:git branch swaaz
 - Checkout to new branch from master branch :
 <pre>$ git checkout new_branch_name</pre>
-   eg-git checkout swaaz
+  Example-git checkout swaaz
  ## Check whether the program which you want is exist in the _readme_ file
  ### If it's existing then don't waste your time by adding it again and think of adding some other program
  ### If it's not existing then 
  - Create a new folder
  <pre> $ mkdir program-number </pre>
- eg:mkdir program-35
+ Example:mkdir program-35
  - Change directory to the new created folder
  <pre> $ cd folder_name </pre>
  - Create a file *program.c*
@@ -28,10 +28,10 @@
 <pre>$ git add -A</pre>
 - Commit file :
 <pre>$ git commit -m "comment"</pre>
-   eg-git commit -m "program added"
+   Example-git commit -m "program added"
 - Push the file :
 <pre>$ git push origin -u 'branch_name'</pre>
-   eg-git push origin -u swaaz
+ Example-git push origin -u swaaz
 - The given link should be copied and pasted in web browser or go to your repo in web browser
 - Create a pull request
 - tag @swaaz under review section
