@@ -1,0 +1,9 @@
+Program-4:
+Write a cpp program to check the given is palindrome or not?
+
+Variable description:
+
+n:holds the copy of entered number
+num:holds the original number
+digit: holds the digits of number at every iteration
+rev: holds the reversed number
