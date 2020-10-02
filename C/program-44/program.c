@@ -5,7 +5,7 @@
 // Alphabet Z Pattern 
 void alphabet_Z_Pattern(int N) 
 { 
-	int index, side_index, size; 
+	int index, side_index;
 
 	// Declaring the values of Right, 
 	// Left and Diagonal values 
