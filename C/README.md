@@ -49,6 +49,7 @@
 | Program-45 | Program to illustrate the above given pattern of numbers. |
 | Program-46 | Program to convert binary number to decimal |
 | Program-47 | Program to print kaprekar number in a given range  |
-
-
+| Program-58 | Program to find the sum of elements between indexes  |
+| Program-59 | Program to Search Students details in a list |
+  |
 
