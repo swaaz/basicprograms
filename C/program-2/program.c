@@ -15,15 +15,15 @@ return 1;
 int main() /*main function */
 {
     int n;
-    printf("enter the number");
+    printf("Enter the number:");
     scanf("%d",&n);
     if(isprime(n)==0)
     {
-        printf(" not prime");
+        printf("%d is not prime number.",n);
     }
     else if(isprime(n)==1)
     {
-        printf("prime");
+        printf("%d is a prime number.",n);
     }
     return 0;
-    }
+}
