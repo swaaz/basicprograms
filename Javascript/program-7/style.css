@@ -1,0 +1,53 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: purple;
+    height: 100vh;
+    width: 100%;
+    text-align: center;
+    overflow: hidden;
+}
+
+.search {
+    margin: 60px auto 0 auto;
+    overflow: hidden;
+    max-height: 500px;
+    width: fit-content;
+}
+
+.box {
+    outline: none;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 2rem;
+    box-shadow: 2px 2px 5px #fff;
+}
+
+.search-list li {
+    cursor: default;
+    transition: 0.8s;
+    margin: 0 auto 0 auto;
+    max-width: 80%;
+    list-style: none;
+    padding: 10px;
+    font-size: 1.3rem;
+    background: linear-gradient(to bottom left, rgb(202, 156, 216), rgb(219, 213, 221), #fff, #f1f1f1, rgb(230, 146, 230));
+}
+
+.search-list :nth-child(even) {
+    transform: perspective(82px) rotateX(2deg);
+}
+
+.search-list :nth-child(odd) {
+    transform: perspective(82px) rotateX(-2deg);
+}
+
+.hl {
+    background: yellow;
+}

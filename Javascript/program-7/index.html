@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>day8</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="search">
+        <input type="text" class="box" placeholder="Enter">
+        <ul class="search-list">
+        </ul>
+    </div>
+
+    <script>
+        const api = "https://gist.githubusercontent.com/Miserlou/c5cd8364bf9b2420bb29/raw/2bf258763cdddd704f8ffd3ea9a3e81d25e2c6f6/cities.json";
+        var data = [];
+        fetch(api).then((response) => {
+            return response.json();
+        }).then((response2) => {
+            data = response2;
+        }).catch((error) => {
+            console.warn("Enable to fetch data from the API");
+        });
+
+        function showData() {
+            let regex = new RegExp(this.value, 'gi');
+            let neededData = data.filter((e) => {
+                if (e.city.match(regex) != null || e.state.match(regex) != null) {
+                    return 1;
+                }
+            }).map((e) => {
+                return `${e.city} ${e.state}`;
+            });
+            let html = "";
+            neededData.forEach((item) => {
+                html += "<li>" + item.replace(regex, "<span class='hl'>" + this.value + "</span>") + "</li>";
+            });
+            searchList.innerHTML = html;
+        }
+        let searchList = document.querySelector(".search-list");
+        let box = document.querySelector(".box");
+        let bigBox = document.querySelector(".search");
+        box.addEventListener("keyup", showData);
+        bigBox.addEventListener("mouseleave", () => {
+            searchList.innerHTML = "";
+        });
+    </script>
+</body>
+
+</html>
