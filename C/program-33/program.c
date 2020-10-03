@@ -1,6 +1,7 @@
 /* Arithematic operation using pointers */
 #include <stdio.h>
-void main()
+#include <stdlib.h>
+int main()
 {
 int a,b;
 int *x,*y;
@@ -9,6 +10,6 @@ x=&a;
 y=&b;
 //s=;
 printf("%d\t%d",*x+*y,abs(*x-*y));
-
+return 0;
 }
 
