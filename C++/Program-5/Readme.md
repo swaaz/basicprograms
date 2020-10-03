@@ -1,4 +1,4 @@
-Program 49
+Program 5
 
 Write a program to find the sum of the digits of the given number.
 
