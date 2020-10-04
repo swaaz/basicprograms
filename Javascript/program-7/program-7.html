@@ -1,0 +1,33 @@
+<html>
+<head>
+<title>Searching strings with index Of amd LastIndex of</title>
+
+<script type="text/javascript">
+var l="abcdefghijklmnopqrstuvwxzabcdefghijklm"
+function buttonPressed()
+{
+
+sForm.first.value=l.indexOf(sForm.inputVal.value);
+sForm.last.value=l.lastIndexOf(sForm.inputVal.value);
+sForm.firstl2.value=l.indexOf(sForm.inputVal.value,12);
+sForm.lastl2.value=l.lastIndexOf(sForm.inputVal.value,12);
+}
+</script>
+</head>
+<body>
+<form name="sForm" action="">
+<h1>The String to search is:</br>abcdefghijklmnopqrstuvwxyzabcdefghijklm</h1>
+<p>Enter substring to search for
+<input name="inputVal" type="text"/>
+<input name="search" type="button" value="search" onclick="buttonPressed()"/><br/></p>
+<p>First Occurace located at index
+<input name="first" type="text" size="5"/>
+<br/>Last occurance located at index
+<input name="last" type="text" size="5"/>
+<br/>First occurance from index l2 located at index
+<input name="firstl2" type="text" size="5"/>
+<br/>last occurance from index l2 located at index
+<input name="lastl2" type="text" size="5"/></p>
+</form>
+</body>
+</html>
