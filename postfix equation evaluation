@@ -1,0 +1,93 @@
+
+#include<iostream.h>
+#include<stdio.h>
+#include<math.h>
+#include<stdlib.h>
+#include<string.h>
+#include<conio.h>
+#define size 80
+struct stack
+{
+    double s[size];
+    int top;
+}st;
+void main()
+{
+    char e[size];
+    int len;
+    double result;
+    double post(char exp[]);
+    clrscr();
+    cout<<"Enter the post fix expersion \n";
+    cin>>e;
+    len=strlen(e);
+    e[len]='$';
+    result=post(e);
+    cout<<"The Value of the expression is "<<result<<endl;
+    getch();
+    exit(0);
+}
+double post(char e [])
+{ 
+    char ch,*type;
+    double result, val, op2,op3;
+    void push(double);
+    double pop();
+    int i;
+    st.top=0;
+    ch=exp[i];
+    while(ch!='$')
+    {
+        if(ch>='0'&&ch<='9')
+        type ="operand";
+        else if(ch=='+'||ch=='-'||ch=='*'||ch=='/'||ch=='^')
+        type="operator";
+        if(strcmp(type,"operand")==0)
+        {
+            val=ch-48;
+            push(val);
+        }
+        else if(strcmp(type,"operator")==0)
+        {
+            op3=pop();
+            op2=pop();
+            switch (ch)
+            {
+            case '+': result=op2+op3;
+                        break;
+            case '-': result=op2-op3;
+                        break;
+            case '*': result=op2*op3;
+                         break;
+            case '/': result=op3/op2;
+                        break;
+            case '^': result=pow(op2,op3);
+                        break;         
+            
+            default:  
+                break;
+            }//switch ends
+            push(result);
+        }//else if end here
+        i++;
+        ch=e[i];
+    }//while ends here
+    result=pop();
+    result(result);
+}
+void push(double val)
+{
+    if(st.top+1>=size)
+     cout<<"\nStack is full\n";
+    st.top++;
+    st.s[st.top]=val;
+}
+double pop()
+{
+    double val;
+    if(st.top==-1)
+    cout<<"\nStack is empty\n";
+    val=st.s[st.top];
+    st.top--;
+    return(val);
+}
