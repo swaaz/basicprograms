@@ -1,0 +1,1 @@
+python program for simple interest
