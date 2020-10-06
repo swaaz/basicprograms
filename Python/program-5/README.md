@@ -1,7 +1,10 @@
 Program 5
 
-Write a program to find a factorial of a number.
+This program gives the following pattern:
 
-Variable description--
-fact= Holds the input number
+        1
+      1 2 1 2
+    1 2 3 1 2 3
+  1 2 3 4 1 2 3 4
+1 2 3 4 5 1 2 3 4 5
 
