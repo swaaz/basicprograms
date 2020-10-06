@@ -3,7 +3,7 @@
     <img src="./gif/giphy.gif" width="300x" >
 </div>
 
-## This repo is an awesome collection of basic programs in different programming languages⚡
+## This Repository is an awesome collection of basic programs in different programming languages⚡
 <div align="center">
 <!-- languages -->    
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" height= 25px width=80px/>
