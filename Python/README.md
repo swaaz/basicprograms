@@ -20,7 +20,5 @@
 | Program-16 | Program to print a right angled triangle. |
 | Program-17 | Program to convert Binary to Decimal. |
 | Program-18 | Program to check leap year or not. |
-
- 
-
-
+| Program-19 | Program to count number of integers between 1 to 50 divisible by a number. |
+| Program-20 | Program to create an array of range specified and print. |
