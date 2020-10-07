@@ -1,23 +1,58 @@
-#include<stdio.h>
-void main()
+/*
+  This Program calulates all the prime between the range of numbers
+  includes the numbers which is provided.
+  
+  For e.g:   2  7
+  Prime Numbers are : 2 3 5 7
+*/
+
+#include <stdio.h>
+#include <stdlib.h>
+
+char primecheck(int);
+
+int main()
 {
-	double r,area,circum;//Initializing varaibles
-	
-	printf("Enter Radius:");
-	scanf("%lf",&r);//getting radius.
-	
-	if(r<10)//Checks if radius is less than 10
-	{
-		circum = 2*3.14*r;//Circumference of a circle is 2*pi*r.
-		
-		printf("The Circumference of the Circle with the given radius is: %lf",circum);//printing Circumference
-	}
-	else//If r is NOT less that 10....i.e. r is greater than 10
-	{
-	area = 3.14*r*r;//Area of a circle is pi*r*r.
-	
-	printf("The Area of the Circle with the given radius is: %lf",area);//printing The area	
-	}
-	getch();
-	
+    int i,num1,num2,cases;
+    char ans;
+    printf("Enter Number of Test Cases: ");
+    scanf("%d",&cases);
+    while (cases--)
+    {
+        printf("Enter First Number: ");
+        scanf("%d",&num1);
+        printf("Enter Second Number: ");
+        scanf("%d",&num2);
+
+        printf("Answer: ");
+        for(i=num1;i<=num2;i++)
+        {
+            ans = primecheck(i);
+            if (ans == 'y')
+                printf("%d ",i);
+        }
+        printf("\n");
+    }
+    return 0;
+}
+
+char primecheck(int num)
+{
+    int i;
+    if (num == 0 || num == 1)
+        return 'n';
+    else
+    {
+        for(i=(num-1);i>1;i--)
+        {
+            if(num%i == 0)
+            {
+                return 'n';
+            }
+            else
+                continue;
+        }
+        return 'y';
+    }
+
 }

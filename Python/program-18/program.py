@@ -1,4 +1,7 @@
-for i in range(1,6):
-    for j in range(1,i+1):
-        print(i,end=' ')
-    print()
+
+year =  int( input('Enter Year: '))
+
+if (year%4) and (year%100) and (year%400)  == 0:
+    print('Leap year')
+else:
+    print('Not leap year')
