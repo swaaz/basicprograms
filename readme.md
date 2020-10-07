@@ -3,7 +3,7 @@
     <img src="./gif/giphy.gif" width="300x" >
 </div>
 
-## This repo is an awesome collection of basic programs in different programming languages⚡
+## This Repository is an awesome collection of basic programs in different programming languages⚡
 <div align="center">
 <!-- languages -->    
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" height= 25px width=80px/>
@@ -16,6 +16,7 @@
 
 ## ⚠️Points to note before you start contributing
 - Check whether the program you are going to add already exists in the repo or not. Make sure you're not repeting any program.
+- Do add readme.md file for explaining the question , input and output for each program.
 - Please go through [How to contribute](#contribute) and do accordingly to make a smooth contribution.
 <br/><br/>
 
