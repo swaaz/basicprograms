@@ -10,7 +10,7 @@
 | Program-06 | Program to print a pattern. |
 | Program-07 | Program to print a pattern. |
 | Program-08 | Program to print a pattern. |
-| Program-09 | Program to check if he number is armstrong or not. |
+| Program-09 | Program to check if the number is armstrong or not. |
 | Program-10 | Program to shuffle a deck of cards. |
 | Program-11 | Program to print fibonacci series. |
 | Program-12 | Program to check if a number is prime or not. |
@@ -18,6 +18,7 @@
 | Program-14 | Program to find simple interest for given principal amount, time and rate of interest. |
 | Program-15 | Program to sort the array and give the time to sort the array. |
 | Program-16 | Program to print a right angled triangle. |
+| Program-17 | Program to check leap year or not. |
 
  
 
