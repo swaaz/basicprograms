@@ -1,4 +1,4 @@
-PROGRAM-5
+PROGRAM-17
 To print the given pattern(pattern.py)
         1 
       1 2 1 2 
