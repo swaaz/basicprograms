@@ -1,7 +1,10 @@
 Program 6
 
-Write a program to check whether a number is prime or not
+The code gives the following pattern :
 
-Variable description--
-n= holds input value
+1 
+2 2 
+3 3 3
+4 4 4 4
+5 5 5 5 5
 

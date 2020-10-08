@@ -2,7 +2,6 @@
 # for given principal amount, time and 
 # rate of interest. 
   
-  
 def simple_interest(p,t,r): 
     print('The principal is', p) 
     print('The time period is', t) 

@@ -62,6 +62,7 @@
 | Program-58 | Program to find the sum of elements between indexes  |
 | Program-59 | Program to Search Students details in a list |
 | Program-60 | Program to print kaprekar number in a given range |
+| Program-61 | Program to find the all the prime numbers between the numbers |
  
 
 
