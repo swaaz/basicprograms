@@ -53,7 +53,7 @@
 | Program-49 | Program to find the sum of the digits of the given number |
 | Program-50 | Program to check whether a given number is a palindrome or not  |
 | Program-51 | Program to print duplicates in an array |
-| Program-52 | to find whether the given element is present in the array or not  |
+| Program-52 | Program to find whether the given element is present in the array or not  |
 | Program-53 | Program to find the position of an element in an array  |
 | Program-54 | Program to check whether two strings are anagrams or not  |
 | Program-55 | Program to print print a number in binary  |
@@ -62,7 +62,8 @@
 | Program-58 | Program to find the sum of elements between indexes  |
 | Program-59 | Program to Search Students details in a list |
 | Program-60 | Program to print kaprekar number in a given range |
-| Program-61 | Program to find the all the prime numbers between the numbers |
+| Program-61 | Program to find the all the prime numbers between the given range. |
+| Program-62 | Program to calculate the average of 5 numbers. |
  
 
 
