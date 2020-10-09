@@ -1,1 +1,1 @@
-Program to print Pascal' triangle
+C++ Program to print Pascal' triangle
