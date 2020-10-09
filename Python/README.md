@@ -18,8 +18,7 @@
 | Program-14 | Program to find simple interest for given principal amount, time and rate of interest. |
 | Program-15 | Program to sort the array and give the time to sort the array. |
 | Program-16 | Program to print a right angled triangle. |
-| Program-17 | Program to check leap year or not. |
-
- 
-
-
+| Program-17 | Program to convert Binary to Decimal. |
+| Program-18 | Program to check leap year or not. |
+| Program-19 | Program to count number of integers between 1 to 50 divisible by a number. |
+| Program-20 | Program to create an array of range specified and print. |
