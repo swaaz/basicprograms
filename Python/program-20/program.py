@@ -1,7 +1,9 @@
+a,b = input().split()
 
-year =  int( input('Enter Year: '))
+a = int(a)
+b = int(b)
 
-if (year%4) and (year%100) and (year%400)  == 0:
-    print('Leap year')
-else:
-    print('Not leap year')
+list_1 = list(x for x in range(a+1,b+1))
+
+for i in list_1[a:b]:
+  print(i)

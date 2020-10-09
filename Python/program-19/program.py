@@ -1,14 +1,10 @@
-#Python Program to Convert Decimal to Binary
+a = int(input())
+count = 0
+list_1 = [i for i in range(1, 51)]
 
-def decimalToBinary(num):
-    """This function converts decimal number
-    to binary and prints it"""
-    if num > 1:
-        decimalToBinary(num // 2)
-    print(num % 2, end='')
-
-
-# decimal number
-number = int(input("Enter any decimal number: "))
-
-decimalToBinary(number)
+for i in list_1:
+  if i != a:
+    if i%a == 0:
+      count+=1
+    
+print(count,end='')
