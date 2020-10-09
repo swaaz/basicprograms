@@ -1,0 +1,4 @@
+﻿  FizzBuzz.cpp
+c:\users\srishti\basicprograms\c++\program12\fizzbuzz\fizzbuzz\fizzbuzz.cpp(10): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\srishti\basicprograms\c++\program12\fizzbuzz\fizzbuzz\fizzbuzz.cpp(11): warning C4101: 'r': unreferenced local variable
+  FizzBuzz.vcxproj -> C:\Users\Srishti\basicprograms\C++\Program12\FizzBuzz\Debug\FizzBuzz.exe

@@ -1,0 +1,1 @@
+print any input string without using ";" in the print statement
