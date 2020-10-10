@@ -9,4 +9,4 @@
 | Program-07 | Program to print Pascal' triangle |
 | Program-08 | Program to reverse a string |
 | Program-09 | Program to check if two numbers are equal without using arithmetic operators or comparison operators.
- |
+| Program-10 | Program to find the missing number in  a Sorted Array.
