@@ -1,0 +1,10 @@
+price = input("What is the price of your house? ")
+has_good_credit = False
+if has_good_credit:
+    print("The downpayment is 10%")
+    down_payment = int(price) * 10/100
+    print("The downpayment is %s"% down_payment)
+else :
+     print("The downpayment is 20%")
+     down_payment = int(price) * 20/100
+     print("The downpayment is %s"% down_payment)
