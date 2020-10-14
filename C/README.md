@@ -64,6 +64,10 @@
 | Program-60 | Program to print kaprekar number in a given range |
 | Program-61 | Program to find the all the prime numbers between the given range. |
 | Program-62 | Program to calculate the average of 5 numbers. |
- 
-
-
+| Program-63 | Program to print Pascal's Triangle. |
+| Program-64 | Program to check Armstrong number. |
+| Program-65 | Program to Find Transpose of a Matrix |
+| Program-66 | Program to find fibonacci series upto n values in C language. |
+| Program-67 | Program to calulate all the prime between the range of numbers includes the numbers which is provided. |
+| Program-68 | Program to accept 0s and 1s as input and print if it consists 3 consecutive 0s |
+| Program-69 | Program to find strong number |
