@@ -22,3 +22,13 @@
 | Program-18 | Program to check leap year or not. |
 | Program-19 | Program to count number of integers between 1 to 50 divisible by a number. |
 | Program-20 | Program to create an array of range specified and print. |
+| Program-21 | Program to print the number of *. |
+| Program-22 | Program to check if a number is even or odd |
+| Program-23 | Program to find the all the prime numbers between the given range. |
+| Program-24 | Program to convert binary number to decimal |
+| Program-25 | Program to sort the array and give the time to sort the array. |
+| Program-26 | Program to print a right angled triangle. |
+| Program-27 | Program to convert Binary to Decimal. |
+| Program-28 | Program to check leap year or not. |
+| Program-29 | Program to count number of integers between 1 to 50 divisible by a number. |
+| Program-30 | Program to create an array of range specified and print. |
