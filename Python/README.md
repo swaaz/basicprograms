@@ -26,9 +26,10 @@
 | Program-22 | Program to check if a number is even or odd |
 | Program-23 | Program to find the all the prime numbers between the given range. |
 | Program-24 | Program to convert binary number to decimal |
-| Program-25 | Program to sort the array and give the time to sort the array. |
-| Program-26 | Program to print a right angled triangle. |
-| Program-27 | Program to convert Binary to Decimal. |
-| Program-28 | Program to check leap year or not. |
+| Program-25 | Program of a car game which shows if the car has started or stopped |
+| Program-26 | Program of a guessing game in which u guess the secret number with a guessing limit of 3 attempts. |
+| Program-27 | Program which tells you the of downpayment of the house is 10% or 20%
+depending if the owner has a good credit or not.The price of the house is to be entered in the output |
+| Program-28 | Program to find out the GCD of any 2 given numbers |
 | Program-29 | Program to count number of integers between 1 to 50 divisible by a number. |
 | Program-30 | Program to create an array of range specified and print. |
