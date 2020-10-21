@@ -32,4 +32,5 @@
 depending if the owner has a good credit or not.The price of the house is to be entered in the output |
 | Program-28 | Program to find out the GCD of any 2 given numbers |
 | Program-29 | Program  which will display the fibonacci series |
+| Program-30 | Program to make simple calculator |
 | Program-31 | Program to print Amstrong numbers |
