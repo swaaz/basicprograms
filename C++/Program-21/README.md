@@ -1,15 +1,15 @@
-#Last digit of sum of partial Fibonacci Series
+# Last digit of sum of partial Fibonacci Series
 
-##Problem statement:
+## Problem statement:
 Given two non-negative integers m and n, where m <= n, find the last digit of the sum *Fm + Fm+1 + .... + Fn*
 
-###Input:
+### Input:
 Two non negative intergers m and n, such that m <= n.
 
-###Output: 
+### Output: 
 The last digit of the sum of Fibonacci series starting from *Fm* to *Fn*.
 
-###Example:
+### Example:
 
 *Input:*
 ```
