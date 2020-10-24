@@ -71,3 +71,4 @@
 | Program-67 | Program to calulate all the prime between the range of numbers includes the numbers which is provided. |
 | Program-68 | Program to accept 0s and 1s as input and print if it consists 3 consecutive 0s |
 | Program-69 | Program to find strong number |
+| Program-70 | Program to make a simple calculator |
