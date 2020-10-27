@@ -28,8 +28,7 @@
 | Program-24 | Program to convert binary number to decimal |
 | Program-25 | Program of a car game which shows if the car has started or stopped |
 | Program-26 | Program of a guessing game in which u guess the secret number with a guessing limit of 3 attempts. |
-| Program-27 | Program which tells you the of downpayment of the house is 10% or 20%
-depending if the owner has a good credit or not.The price of the house is to be entered in the output |
+| Program-27 | Program which tells you the of downpayment of the house is 10% or 20% depending if the owner has a good credit or not.The price of the house is to be entered in the output |
 | Program-28 | Program to find out the GCD of any 2 given numbers |
 | Program-29 | Program  which will display the fibonacci series |
 | Program-30 | Program to make simple calculator |
