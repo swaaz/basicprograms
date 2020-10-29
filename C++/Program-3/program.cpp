@@ -1,4 +1,4 @@
-#include<iostream>
+#include<iostream> // header file 
 
 using namespace std ;
 
@@ -29,7 +29,7 @@ int main()
     
     int n;
     cout<<"Enter size of an Array:";
-    cin>>n ;
+    cin>>n ; // taking input
     
     int k; 
     cout<<"Enter Kth element to swap:";
