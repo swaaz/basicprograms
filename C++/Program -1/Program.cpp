@@ -12,7 +12,7 @@ int main() {
 	for(int i=0;i<n;++i)//Input the elements of array
 	{   
 	    cin>>arr[i];
-	    if(arr[i]<min)//if current element is less than min 
+	    if(arr[i]<min)//if current element is less than min number
 	        min=arr[i];//min is updated
 	    if(arr[i]>max)//if current element is greater than max
 	        max=arr[i];//max is updated
