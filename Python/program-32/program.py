@@ -1,5 +1,4 @@
 # Made by Nitin Kumar
-# on 15th September 2020
 # using purely python language
 # and list 'data structure' type
 # comments are added for clear understanding of every code used
