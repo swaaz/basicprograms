@@ -72,3 +72,4 @@
 | Program-68 | Program to accept 0s and 1s as input and print if it consists 3 consecutive 0s |
 | Program-69 | Program to find strong number |
 | Program-70 | Program to make a simple calculator |
+| Program-71 | Program to implement stack using array & linked list |
