@@ -2,7 +2,7 @@
 ## This repo contains basics programs in c programming language.
 | Program No.| Question |
 | ------- | ------ |
-| Program-01 | Program to print pattern  |
+| Program-01 | Program to print pattern |
 | Program-02 | Program to check whether the given number is prime or not |
 | Program-03 | Program to find largest of three number using simple if condition |
 | Program-04 | Program to find largest of three number using if-else condition |
@@ -16,7 +16,7 @@
 | Program-12 | Program on relational operators |
 | Program-13 | Program on bit-wise operator. |
 | Program-14 | Program on increment and decrement operator. |
-| Program-15 | Program to find sum of digits between given range which are divisible by 3  |
+| Program-15 | Program to find sum of digits between given range which are divisible by 3 |
 | Program-16 | Program to check whether the given number is neon or not |
 | Program-17 | Program to check whether the given number is prefect or not |
 | Program-18 | Program to check given number is Armstrong or not |
@@ -34,7 +34,7 @@
 | Program-30 | Program to print the pattern |
 | Program-31 | Program to take the details of student and print the details of students using array and to add details of new students into the existing array |
 | Program-32 | Program to take the details of student and print the details |
-| Program-33 | Program on Arithematic operation using pointers  |
+| Program-33 | Program on Arithematic operation using pointers |
 | Program-34 | Program to determine whether the matrix is a triangular matrix. First, you will be given N, which is the size of the matrix. Then you will be given N rows of integers, where each row consists of N integers separated by spaces. If the input matrix is triangular, then print yes. Otherwise, print no. |
 | Program-35 | Program where you are given a sequence of non-negative integers terminated by -1. You have to output 1 if there are atleast 2 distinct elements in the sequence and 0 if the sequence consists of only 1 integer. Note that -1 is not part of the sequence. The sequence is not necessarily sorted. |
 | Program-36 | Program to output the number of distinct elements in the sorted sequence |
@@ -64,6 +64,12 @@
 | Program-60 | Program to print kaprekar number in a given range |
 | Program-61 | Program to find the all the prime numbers between the given range. |
 | Program-62 | Program to calculate the average of 5 numbers. |
- 
-
-
+| Program-63 | Program to print Pascal's Triangle. |
+| Program-64 | Program to check Armstrong number. |
+| Program-65 | Program to Find Transpose of a Matrix |
+| Program-66 | Program to find fibonacci series upto n values in C language. |
+| Program-67 | Program to calulate all the prime between the range of numbers includes the numbers which is provided. |
+| Program-68 | Program to accept 0s and 1s as input and print if it consists 3 consecutive 0s |
+| Program-69 | Program to find strong number |
+| Program-70 | Program to make a simple calculator |
+| Program-71 | Program to implement stack using array & linked list |

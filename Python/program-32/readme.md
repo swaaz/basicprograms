@@ -1,0 +1,1 @@
+Returns the human-readable format of the given number of seconds.
