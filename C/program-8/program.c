@@ -7,8 +7,8 @@ int main()
     scanf("%d",&n);
     y=n/365;
     m=n%365;
-    j=m/30;
-    d=j%30;
+    j=n/30;
+    d=n%30;
     printf("year=%d",y);
     printf("months =%d",j);
     printf("days=%d",d);

@@ -115,5 +115,5 @@
 
 ### Tada you just made a contribution ✨. Pat your back 👏 <br/><br/>
 
-### If you have never made a PR before 😕, no worries, follow these steps to get going [👉click me](https://gitme.js.org/)
+### If you have never made a PR before 😕, no worries, follow these steps to get going [👉click me](https://gitgo.swaaz.me/)
 
