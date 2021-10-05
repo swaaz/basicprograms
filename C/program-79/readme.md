@@ -1,0 +1,1 @@
+C Program to calculate Simple Interest
