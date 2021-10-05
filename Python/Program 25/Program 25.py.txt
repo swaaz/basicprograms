@@ -1,0 +1,25 @@
+command = ""
+started = False
+while True:
+    command = input("> ").lower()
+    if command == "start":
+        if started:
+            print("How many times will you start the car")
+        else:
+            started = True
+            print("Car has started")
+    elif command == "stop":
+        if not started :
+            print("Car has already been stopped")
+        else:
+            started = False
+        print("Car has stopped")
+
+    elif command == "help":
+        for item in ['Start - To Start the car','Stop - To Stop the car', 'Quit - to Quit']:
+            print(item)
+    elif command =="quit":
+        break
+
+    else :
+        print("Sorry I dont understand")
