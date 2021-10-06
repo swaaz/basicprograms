@@ -16,6 +16,6 @@
 | Program-24 | Program to convert Hexa-Decimal number to Decimal number 
 | Program-25 | Program to Implement Queue Data Structure Using Linked Lists
 | Program-26 | Program to Implement Stack Data Structure Using Linked Lists
-| Program-27 | Program to Evaluate Polynomials Using Linked Lists
+| Program-27 | Program to Evaluate Polynomial expression Using Linked Lists
 
 
