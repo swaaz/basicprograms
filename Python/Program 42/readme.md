@@ -1,0 +1,1 @@
+Python program to print Hourglass pattern

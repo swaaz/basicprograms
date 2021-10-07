@@ -42,5 +42,7 @@
 | Program-38 | - |
 | Program-39 | - |
 | [Program-40](https://github.com/swaaz/basicprograms/blob/814a1e60ae23d81158d8174666f23c9b7419e15e/Python/program-40/BasicGraphs.py) | Graph pictorial representation of set of objects
+| Program-41 | - |
+| [Program-42](https://github.com/swaaz/basicprograms/blob/814a1e60ae23d81158d8174666f23c9b7419e15e/Python/Program%2035/program42.py) | Python program to print Hourglass pattern
 
 <hr>
