@@ -13,7 +13,7 @@ int main()
 		for(space=i; space<rows; space++) {
 			cout<<"\t";
 		}
-		for(j=1; j<=i; j++) {
+		for(int j=1; j<=i; j++) {
 			cout<<k<<"\t";
 			k++;
 		}
