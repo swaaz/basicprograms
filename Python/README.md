@@ -37,7 +37,7 @@
 | [Program-33](https://github.com/swaaz/basicprograms/blob/814a1e60ae23d81158d8174666f23c9b7419e15e/Python/Program33/Program33.py) | Program to find HCF
 | [Program-34](https://github.com/swaaz/basicprograms/blob/814a1e60ae23d81158d8174666f23c9b7419e15e/Python/Program34/Program34.py) |  Program to display calender
 | [Program-35](https://github.com/swaaz/basicprograms/blob/814a1e60ae23d81158d8174666f23c9b7419e15e/Python/Program%2035/Program35.py) | Program to search an element in a Circular Linked List
-| [Program-36](https://github.com/swaaz/basicprograms/blob/814a1e60ae23d81158d8174666f23c9b7419e15e/Python/Program%36/Program36.py) | WAP to Reversing a List in Python
+| [Program-36](https://github.com/MadJokkerr/basicprograms/blob/master/Python/Program-36/Program36.py) | WAP to Reversing a List in Python
 | Program-37 | - |
 | Program-38 | - |
 | Program-39 | - |
