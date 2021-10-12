@@ -82,7 +82,7 @@
 | [Program-78](https://github.com/swaaz/basicprograms/blob/814a1e60ae23d81158d8174666f23c9b7419e15e/C/program-78/program.c) | Program to find the Area of Triangle using Base and Height
 | [Program-79](https://github.com/swaaz/basicprograms/blob/814a1e60ae23d81158d8174666f23c9b7419e15e/C/program-79/program.c) | Program to calculate Simple Interest
 | [Program-80](https://github.com/swaaz/basicprograms/blob/814a1e60ae23d81158d8174666f23c9b7419e15e/C/program-80/program.c) |  Program to calulate all the prime between the range of numbers 
-| [Program-83](https://github.com/swaaz/basicprograms/blob/814a1e60ae23d81158d8174666f23c9b7419e15e/C/program-80/program.c) |  Program to multiply two matrices 
+| [Program-83](https://github.com/swaaz/basicprograms/blob/814a1e60ae23d81158d8174666f23c9b7419e15e/C/program-83/program-83.c) |  Program to multiply two matrices 
 
 <hr>
  
