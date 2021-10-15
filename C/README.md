@@ -82,7 +82,7 @@
 | [Program-78](https://github.com/swaaz/basicprograms/blob/814a1e60ae23d81158d8174666f23c9b7419e15e/C/program-78/program.c) | Program to find the Area of Triangle using Base and Height
 | [Program-79](https://github.com/swaaz/basicprograms/blob/814a1e60ae23d81158d8174666f23c9b7419e15e/C/program-79/program.c) | Program to calculate Simple Interest
 | [Program-80](https://github.com/swaaz/basicprograms/blob/814a1e60ae23d81158d8174666f23c9b7419e15e/C/program-80/program.c) |  Program to calulate all the prime between the range of numbers 
-
-
+| [Program-81](https://github.com/swaaz/basicprograms/blob/94b4ffac65f6d66955c5cb3220d2a148b8f17d49/C/program-81/program.c) |  Program to implement Linked Lists
+| [Program-82](https://github.com/swaaz/basicprograms/blob/94b4ffac65f6d66955c5cb3220d2a148b8f17d49/C/program-82/program.c) |  Inserting an element in the beginning of a linked list
 <hr>
  
