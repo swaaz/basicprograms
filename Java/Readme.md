@@ -17,6 +17,10 @@
 | [Program-11](https://github.com/swaaz/basicprograms/blob/814a1e60ae23d81158d8174666f23c9b7419e15e/Java/Program-11/Program.java) | Program for compound interest
 | [Program-12](https://github.com/swaaz/basicprograms/blob/814a1e60ae23d81158d8174666f23c9b7419e15e/Java/Program-12/Program-12.java) | Print number of vowels and consonants in a string
 | [Program-13](https://github.com/swaaz/basicprograms/blob/814a1e60ae23d81158d8174666f23c9b7419e15e/Java/Program-13/Program%20Number%20to%20Word.java) | Program to convert number into words
+  | [Program-14](https://github.com/swaaz/basicprograms/blob/814a1e60ae23d81158d8174666f23c9b7419e15e/Java/Program-13/Program%20Number%20to%20Word.java) | Program to convert decimal to binary
+  | [Program-15](https://github.com/swaaz/basicprograms/blob/814a1e60ae23d81158d8174666f23c9b7419e15e/Java/Program-13/Program%20Number%20to%20Word.java) | Program to convert decimal number to equivalenr binary number
+  | [Program-16](https://github.com/swaaz/basicprograms/blob/814a1e60ae23d81158d8174666f23c9b7419e15e/Java/Program-13/Program%20Number%20to%20Word.java) | Program to find CSA of cylinder
+  | [Program-17](https://github.com/swaaz/basicprograms/blob/814a1e60ae23d81158d8174666f23c9b7419e15e/Java/Program-13/Program%20Number%20to%20Word.java) | Program to reverse a given string
   
  </div>
  
