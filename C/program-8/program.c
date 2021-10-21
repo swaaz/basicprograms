@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-
+    clrscr();
     int y,n,m,d,j;
     printf("enter the input");
     scanf("%d",&n);
@@ -12,4 +12,5 @@ int main()
     printf("year=%d",y);
     printf("months =%d",j);
     printf("days=%d",d);
+    getch();
 }
