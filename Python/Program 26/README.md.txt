@@ -1,1 +1,0 @@
-a program of a guessing game in which u guess the secret number with a guessing limit of 3 attempts

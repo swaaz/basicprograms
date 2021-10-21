@@ -1,1 +1,0 @@
-A program of a car game which shows if the car has started or stopped
