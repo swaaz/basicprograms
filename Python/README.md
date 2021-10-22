@@ -44,6 +44,6 @@
 | [Program-40](https://github.com/swaaz/basicprograms/blob/814a1e60ae23d81158d8174666f23c9b7419e15e/Python/program-40/BasicGraphs.py) | Graph pictorial representation of set of objects
 | Program-41 | - |
 | [Program-42](https://github.com/swaaz/basicprograms/blob/814a1e60ae23d81158d8174666f23c9b7419e15e/Python/Program%2035/program42.py) | Python program to print Hourglass pattern
-| [Program-48](https://github.com/swaaz/basicprograms/blob/814a1e60ae23d81158d8174666f23c9b7419e15e/Python/program-48/program.py) | Python program to find area of triangle
+| [Program-48](https://github.com/swaaz/basicprograms/blob/814a1e60ae23d81158d8174666f23c9b7419e15e/Python/Program%2048/Find_area _of_triangle.py) | Python program to find area of triangle
 
 <hr>
