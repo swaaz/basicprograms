@@ -1,3 +1,0 @@
-number = input("Enter the number to be converted to *: ")
-for item in number:
-    print('*' * int(item))

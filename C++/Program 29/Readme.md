@@ -1,1 +1,1 @@
-C++ program to convert a decimal.
+THE PROGRAM IS FOR THE BINARY SEARCH

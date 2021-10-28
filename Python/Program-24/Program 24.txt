@@ -1,0 +1,11 @@
+number = int(input("Enter the number to be converted to decimals: "))
+
+
+sum = 0
+i = 0
+while number != 0:
+    rem = number % 10
+    sum  = sum + rem * pow(2,i)
+    number = int(number/10)
+    i = i + 1
+print("The decimal number is: ",sum)
