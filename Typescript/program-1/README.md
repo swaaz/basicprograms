@@ -1,0 +1,1 @@
+An implementation of fibonacci number algorithm in Typescript.
