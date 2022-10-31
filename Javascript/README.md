@@ -19,6 +19,7 @@
 | [Program-13](https://github.com/swaaz/basicprograms/blob/814a1e60ae23d81158d8174666f23c9b7419e15e/Javascript/program-13/program.js) | Asyncronous function program
 | [Program-14](https://github.com/swaaz/basicprograms/blob/814a1e60ae23d81158d8174666f23c9b7419e15e/Javascript/program-14/program.js) |  Create multiple objects with same body using a constructor function
 | [Program-15](https://github.com/swaaz/basicprograms/blob/814a1e60ae23d81158d8174666f23c9b7419e15e/Javascript/program-15/program.js) | Classes in Javascript
+| [Program-16](https://github.com/swaaz/basicprograms/blob/814a1e60ae23d81158d8174666f23c9b7419e15e/Javascript/program-16/program.js) | Hollow Diamond
   
 </div>
 
