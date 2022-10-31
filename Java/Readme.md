@@ -24,6 +24,8 @@
 | [Program-18](https://github.com/swaaz/basicprograms/blob/814a1e60ae23d81158d8174666f23c9b7419e15e/Java/Program-18/Program%20Number%20to%20Word.java) | Program to calculate electricity bill
 | [Program-19](https://github.com/swaaz/basicprograms/blob/814a1e60ae23d81158d8174666f23c9b7419e15e/Java/Program-19/Program%20Number%20to%20Word.java) | Program to calculate discount
 | [Program-20](https://github.com/swaaz/basicprograms/blob/814a1e60ae23d81158d8174666f23c9b7419e15e/Java/Program-20/Program%20Number%20to%20Word.java) | Program to calculate batting average
+| [Program-21]() | Quicksort Sorting Algorithm in java.  
+  
   
  </div>
  
