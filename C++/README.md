@@ -30,8 +30,9 @@
 | [Program-21](https://github.com/swaaz/basicprograms/blob/814a1e60ae23d81158d8174666f23c9b7419e15e/C++/Program-21/program.cpp) | Last digit of sum of partial Fibonacci Series |
 | [Program-22](https://github.com/swaaz/basicprograms/blob/814a1e60ae23d81158d8174666f23c9b7419e15e/C++/Program%2022/adding_two_string.cpp) | Program to add Two Binary Number Input |
 | [Program-23](https://github.com/swaaz/basicprograms/blob/814a1e60ae23d81158d8174666f23c9b7419e15e/C++/Program%2023/sum_of_square_of_binomial_coefficient.cpp) | To find the sum of square of binomial coefficient Input(integer input) |
-| [Program-24](https://github.com/swaaz/basicprograms/blob/814a1e60ae23d81158d8174666f23c9b7419e15e/C++/Program_24/HexaDecimal-Decimal.cpp) | Program to convert Hexa-Decimal number to Decimal number 
-| [Program-25](https://github.com/swaaz/basicprograms/blob/814a1e60ae23d81158d8174666f23c9b7419e15e/C++/Program_25/Queues_Using_Linked_Lists.cpp) | Program to Implement Queue Data Structure Using Linked Lists
+| [Program-24](https://github.com/swaaz/basicprograms/blob/814a1e60ae23d81158d8174666f23c9b7419e15e/C++/Program_24/HexaDecimal-Decimal.cpp) | Program to convert Hexa-Decimal number to Decimal number |
+| [Program-25](https://github.com/swaaz/basicprograms/blob/814a1e60ae23d81158d8174666f23c9b7419e15e/C++/Program_25/Queues_Using_Linked_Lists.cpp) | Program to Implement Queue Data Structure Using Linked Lists |
+| [Program-26](https://github.com/swaaz/basicprograms/blob/814a1e60ae23d81158d8174666f23c9b7419e15e/C++/Program-26/Cycle Detection in Directed Graph.cpp) | Program to Cycle Detection in Directed Graph |
 
 </div>
 <hr>
