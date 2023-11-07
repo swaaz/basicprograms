@@ -1,4 +1,4 @@
-<h1 align="center">Basic Program</h1>
+<h1 align="center">Basic Programs</h1>
 <div align="center">
     <img src="./gif/giphy.gif" width="300x" >
 </div>
@@ -15,8 +15,8 @@
 </div> <br/>
 
 ## ⚠️Points to note before you start contributing
-- Check whether the program you are going to add already exists in the repo or not. Make sure you're not repeting any program.
-- Do add readme.md file for explaining the question , input and output for each program.
+- Check whether the program you are going to add already exists in the repo or not. Make sure you're not repeating any program.
+- Do add readme.md file for explaining the question, input and output for each program.
 - Please go through [How to contribute](#contribute) and do accordingly to make a smooth contribution.
 <br/><br/>
 
@@ -94,7 +94,7 @@
  - Create a file *program.c*
 
  - Write the code inside program.c file
- ### NOTE: Before writng code refer [*sample*](https://github.com/swaaz/basicprograms/blob/swaaz/C/sample.c) file and write the code in the same format as given
+ ### NOTE: Before writing code refer [*sample*](https://github.com/swaaz/basicprograms/blob/swaaz/C/sample.c) file and write the code in the same format as given
 
  - Add file :
 <pre>$ git add -A</pre>
